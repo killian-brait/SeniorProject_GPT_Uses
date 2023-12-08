@@ -1,0 +1,650 @@
+[
+    {
+        "id": 1,
+        "text": "I care what people close to me think is best",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 2,
+        "text": "I sympathize with others’ feelings.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 3,
+        "text": "I can be pushy.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 4,
+        "text": "I follow a schedule.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 5,
+        "text": "I leave my belongings around.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 6,
+        "text": "I often act on the spur of the moment.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 7,
+        "text": "I am always prepared.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 8,
+        "text": "I often forget to put things back in their proper place.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 9,
+        "text": "I find it difficult to remember appointments or obligations.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 10,
+        "text": "I make careless mistakes while working on a boring or difficult project.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 11,
+        "text": "I have trouble wrapping up the final details of a project once the challenging parts are done.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 12,
+        "text": "My social life is important to me",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 13,
+        "text": "I like to talk with others when I'm trying to understand new things.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 14,
+        "text": "I talk to a lot of different people at social gatherings.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 15,
+        "text": "I like being the center of attention.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 16,
+        "text": "I feel I can be my most authentic self.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 17,
+        "text": "I am relaxed most of the time.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 18,
+        "text": "I get stressed out easily.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 19,
+        "text": "I change my mood a lot.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 20,
+        "text": "I see myself as someone who has high self-esteem.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 21,
+        "text": "I get irritated easily.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 22,
+        "text": "I feel like I am in control of what happens to me.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 23,
+        "text": "I feel like powerful others have a lot of control over how my life will turn out.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 24,
+        "text": "I worry about making mistakes.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 25,
+        "text": "Criticism hurts me.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 26,
+        "text": "I feel worried when somebody is angry.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 27,
+        "text": "I have very few fears compared to my friends.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 28,
+        "text": "In the past two weeks, I have felt nervous, anxious or on edge.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 29,
+        "text": "In the past two weeks, I have been unable to stop or control worrying.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 30,
+        "text": "In the past two weeks, I have had trouble relaxing.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 31,
+        "text": "In the past two weeks, I have been easily annoyed or irritable.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 32,
+        "text": "I'm generally comfortable taking tests.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 33,
+        "text": "In the past two weeks, I have felt afraid something awful might happen.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 34,
+        "text": "I get upset easily.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 35,
+        "text": "I thrive in diverse environments",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 36,
+        "text": "I have a vivid imagination.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 37,
+        "text": "I enjoy thinking about things.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 38,
+        "text": "I believe art is important.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 39,
+        "text": "I like to take things apart to see how they work.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 40,
+        "text": "I'm always willing to try something new if I think it will be fun.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 41,
+        "text": "It's important that I make my family proud of me.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 42,
+        "text": "I like a challenge.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 43,
+        "text": "I go out of my way to get things I want.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 44,
+        "text": "In the past couple of weeks, I have been fulfilling my potential.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 45,
+        "text": "I am easily bored.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 46,
+        "text": "I can easily connect with family and friends if I want.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 47,
+        "text": "I learn well in a study group.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 48,
+        "text": "I learn well when I'm alone.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 49,
+        "text": "In the past two weeks, I have felt so restless, it is hard to keep still.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 50,
+        "text": "I feel like my basic needs are met.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 51,
+        "text": "I like to read.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 52,
+        "text": "What is your race?",
+        "answer_type": "Multiple choices",
+        "state": "Activated"
+    },
+    {
+        "id": 53,
+        "text": "From which socio-economic group would you consider your family to be?",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 54,
+        "text": "What are your living arrangements?",
+        "answer_type": "Multiple choices",
+        "state": "Activated"
+    },
+    {
+        "id": 55,
+        "text": "Are you currently in a relationship?",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 56,
+        "text": "I worry about my finances.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 57,
+        "text": "Did either of your parents (including step parents/guardian) complete university?",
+        "answer_type": "Multiple choices",
+        "state": "Activated"
+    },
+    {
+        "id": 58,
+        "text": "Are you currently in a romantic relationship?",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 59,
+        "text": "Do you have children?",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 60,
+        "text": "Faith is important to me.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 61,
+        "text": "I have a safe place to live.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 62,
+        "text": "What is your gender?",
+        "answer_type": "Multiple choices",
+        "state": "Activated"
+    },
+    {
+        "id": 63,
+        "text": "How old are you?",
+        "answer_type": "Multiple choices",
+        "state": "Activated"
+    },
+    {
+        "id": 64,
+        "text": "Are you currently employed?",
+        "answer_type": "Multiple choices",
+        "state": "Activated"
+    },
+    {
+        "id": 65,
+        "text": "How many hours per week do you work?",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 66,
+        "text": "Each day, how many hours do you typically spend (outside of class) studying or doing schoolwork?",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 67,
+        "text": "Which of these learning preferences work best for you?",
+        "answer_type": "Multiple choices",
+        "state": "Activated"
+    },
+    {
+        "id": 68,
+        "text": "Have you had any significant problems with mental health in the past?",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 69,
+        "text": "Have you had any significant problems with depression in the past?",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 70,
+        "text": "Have you had any significant problems with anxiety in the past?",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 71,
+        "text": "If you have mental health issues CURRENTLY, please choose the category(ies) that your current mental health issue(s) fall into.",
+        "answer_type": "Multiple choices",
+        "state": "Activated"
+    },
+    {
+        "id": 72,
+        "text": "If you have had mental health issues IN THE PAST, please select any category(ies) that your past mental health issue(s) fell into.",
+        "answer_type": "Multiple choices",
+        "state": "Deactivated"
+    },
+    {
+        "id": 73,
+        "text": "I take steps to work on my mental health regularly.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 74,
+        "text": "What country were you born in?",
+        "answer_type": "Text, open-ended question",
+        "state": "Activated"
+    },
+    {
+        "id": 75,
+        "text": "What activities do you do?",
+        "answer_type": "Text, open-ended question",
+        "state": "Activated"
+    },
+    {
+        "id": 76,
+        "text": "Is there anything else you'd like to tell us that may help us help you?",
+        "answer_type": "Text, open-ended question",
+        "state": "Activated"
+    },
+    {
+        "id": 77,
+        "text": "I worry about my physical health",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 78,
+        "text": "My physical health is out of control",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 79,
+        "text": "The people I care about take good care of their physical health.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 80,
+        "text": "Would you say you have a healthy diet?",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 81,
+        "text": "How intense are your exercise sessions?",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 82,
+        "text": "I have access to healthy food.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 83,
+        "text": "How often do you exercise?",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 84,
+        "text": "On average, how many hours do you sleep in each 24-hour period?",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 85,
+        "text": "If you have a physical disability, please select any category(ies) your physical disability falls into.",
+        "answer_type": "Multiple choices",
+        "state": "Deactivated"
+    },
+    {
+        "id": 86,
+        "text": "I get as much sleep as I need.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 87,
+        "text": "Is your diet healthy?",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 88,
+        "text": "Do you feel confident in your resume?",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 89,
+        "text": "Do you feel confident writing a cover letter?",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 90,
+        "text": "Do you feel comfortable doing a job interview?",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 91,
+        "text": "Do you know what job you should work toward?",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 92,
+        "text": "Do you know how to identify an organization that's a good fit for you?",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 93,
+        "text": "I know what types of disability accommodations will support me.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 94,
+        "text": "I know when to disclose my disability.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 95,
+        "text": "I know how to create a disability accommodations plan with an employer.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 96,
+        "text": "I feel overwhelmed by my need to find a job.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 97,
+        "text": "When I look at a job description, I often feel I'm not qualified.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 98,
+        "text": "I am comfortable and competent using a computer.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 99,
+        "text": "I am comfortable and competent using apps on smartphones.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 100,
+        "text": "I feel connected to the university",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 101,
+        "text": "What year of university are you in?",
+        "answer_type": "Multiple choices",
+        "state": "Activated"
+    },
+    {
+        "id": 102,
+        "text": "I am satisfied with my experience at university so far.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 103,
+        "text": "I am satisfied with the support I have been offered by the university.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 104,
+        "text": "How do you get to campus?",
+        "answer_type": "Multiple choices",
+        "state": "Activated"
+    },
+    {
+        "id": 105,
+        "text": "Would you be interested in accessing resources and learning more about any of the following?",
+        "answer_type": "Multiple choices",
+        "state": "Activated"
+    },
+    {
+        "id": 106,
+        "text": "I feel overwhelmed by university life.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 107,
+        "text": "I feel like I belong at university.",
+        "answer_type": "A slider displaying text values",
+        "state": "Activated"
+    },
+    {
+        "id": 108,
+        "text": "What program are you currently enrolled in?",
+        "answer_type": "Text, open-ended question",
+        "state": "Activated"
+    }
+]
